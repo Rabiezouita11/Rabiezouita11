@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rabie Zouita</h1>
 <h3 align="center">Software Developer (Angular , Java , node js )</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiezouita11&label=Profile%20views&color=0e75b6&style=flat" alt="rabiezouita11" /> </p>
 
