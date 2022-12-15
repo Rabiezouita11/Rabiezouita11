@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [xx](xx)
 
-- 💬 Ask me about **laravel , github , gitlab, java**
+- 💬 Ask me about **laravel , github , gitlab, java, iot**
 
 - 📫 How to reach me **rabie.zouita@esprit.tn**
 
