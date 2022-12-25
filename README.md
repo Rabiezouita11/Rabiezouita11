@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **node js , angular , spring**
 
-- 👨‍💻 All of my projects are available at [xx](xx)
+- 👨‍💻 All of my projects are available at [https://rabiezouita11.github.io/](https://rabiezouita11.github.io/)
 
 - 💬 Ask me about **laravel , github , gitlab, java, iot**
 
