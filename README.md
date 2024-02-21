@@ -16,15 +16,15 @@
 
 - 💬 Ask me about **laravel , github , gitlab, java, iot**
 
-- 📫 How to reach me **rabie.zouita@esprit.tn**
+- 📫 How to reach me **rabiezouita82@gmail.com**
 
 - ⚡ Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rabie-zouita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabie-zouita-8a76a61bb" height="30" width="40" /></a>
-<a href="https://fb.com/zouita.rabie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabie.zouita.37" height="30" width="40" /></a>
-<a href="https://instagram.com/zouitarabie7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zouitarabie7" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rabie.zouita.37/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabie.zouita.37" height="30" width="40" /></a>
+<a href="https://instagram.com/zouita.rabie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zouitarabie7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
