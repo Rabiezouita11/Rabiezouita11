@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm rabie zouita</h1>
 <h3 align="center">A passionate full-stack web developer from Tunis, proficient in both frontend and backend development</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiezouita11&label=Profile%20views&color=0e75b6&style=flat" alt="rabiezouita11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabiezouita11" alt="rabiezouita11" /></a> </p>
