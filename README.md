@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **rabiezouita82@gmail.com**
 
+- 📄 Know about my experiences [https://www.canva.com/design/DAF-SNQFv8o/99IT-HQxe4y7sGWZMh3msA/edit](https://www.canva.com/design/DAF-SNQFv8o/99IT-HQxe4y7sGWZMh3msA/edit)
+
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
